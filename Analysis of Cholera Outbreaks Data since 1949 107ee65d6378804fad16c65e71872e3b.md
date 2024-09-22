@@ -1,12 +1,10 @@
 # Analysis of Cholera Outbreaks Data since 1949
 
-> Author's : Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled (@yomna98)
+> **Author's : Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled (@yomna98)**
 > 
 
-<aside>
-💡
 
-**References**
+💡 **References**
 
 Reported cases data :  [WHO](https://apps.who.int/gho/data/node.main.175?lang=en) 
 
@@ -16,7 +14,6 @@ Fatality rates data : [WHO](https://apps.who.int/gho/data/node.main.177?lang=en)
 
  [source](https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway 
 
-</aside>
 
 <aside>
 💡
@@ -42,7 +39,7 @@ Fatality rates data : [WHO](https://apps.who.int/gho/data/node.main.177?lang=en)
 
 The most significant number of cases had been reported before 1980, but after that data shows decline in the number of Reported cases compared to before 80s period 
 
-![image.png](image.png)
+![image.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/image.png)
 
 ## What is the country that Has a Breakout ?
 
@@ -52,21 +49,21 @@ The most significant number of cases had been reported before 1980, but after th
 
 ## Top 10 countries of Reported cases
 
-![top 10 countries.png](top_10_countries.png)
+![top 10 countries.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/top_10_countries.png)
 
 ## Top 10 countries in the numbers of Death cases
 
-![Top 10 Countries in Reported Deaths.png](Top_10_Countries_in_Reported_Deaths.png)
+![Top 10 Countries in Reported Deaths.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Top_10_Countries_in_Reported_Deaths.png)
 
 ## Top 10 Countries in the Fatality rate of Cholera
 
-![The highest Average Cholera Case Fatality Rates by Country.png](The_highest_Average_Cholera_Case_Fatality_Rates_by_Country.png)
+![The highest Average Cholera Case Fatality Rates by Country.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/The_highest_Average_Cholera_Case_Fatality_Rates_by_Country.png)
 
 ## Spreading of Cholera from 1950 to 2004
 
-![Cholera Spreading from 1950 to 2004 / [source](https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway ](31551621443_aaab442132_b.jpg)
+![Cholera Spreading from 1950 to 2004 / [source](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway ](31551621443_aaab442132_b.jpg)
 
-Cholera Spreading from 1950 to 2004 / [source](https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway 
+Cholera Spreading from 1950 to 2004 / [source](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway 
 
 ## The Outbreak That Happened from 1950 to 1960.
 
@@ -77,7 +74,7 @@ The data shows two outbreaks for this 3 countries :
 1. the First one Between 1951 to 1953
 2. the second one between 1956 to 1958
     
-    ![Rplot03.png](Rplot03.png)
+    ![Rplot03.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Rplot03.png)
     
 
 ## India Outbreak
@@ -96,11 +93,11 @@ The data shows two outbreaks for this 3 countries :
 
 ***the fatality rate was : 90 % in 1957 and 75 % in 1958***
 
-![Reported Deaths in India (1950-1960).png](Reported_Deaths_in_India_(1950-1960).png)
+![Reported Deaths in India (1950-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Reported_Deaths_in_India_(1950-1960).png)
 
-![Stacked Bar Chart of Reported Cases in india (1950-1960).png](Stacked_Bar_Chart_of_Reported_Cases_in_india_(1950-1960).png)
+![Stacked Bar Chart of Reported Cases in india (1950-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Stacked_Bar_Chart_of_Reported_Cases_in_india_(1950-1960).png)
 
-![Cholera Case Fatality Rate in India (1949-1960).png](Cholera_Case_Fatality_Rate_in_India_(1949-1960).png)
+![Cholera Case Fatality Rate in India (1949-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Cholera_Case_Fatality_Rate_in_India_(1949-1960).png)
 
 ---
 
@@ -126,11 +123,11 @@ The data shows two outbreaks for this 3 countries :
 
 ***the fatality rate in 1958 and 1959 was : 65 %***
 
-![Bangladesh_fifties_deaths_area_chart.png](Bangladesh_fifties_deaths_area_chart.png)
+![Bangladesh_fifties_deaths_area_chart.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Bangladesh_fifties_deaths_area_chart.png)
 
-![Reported Cases in Bangladesh (1950-1960).png](Reported_Cases_in_Bangladesh_(1950-1960).png)
+![Reported Cases in Bangladesh (1950-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Reported_Cases_in_Bangladesh_(1950-1960).png)
 
-![Cholera Case Fatality Rate in Bangladesh (1949-1960).png](Cholera_Case_Fatality_Rate_in_Bangladesh_(1949-1960).png)
+![Cholera Case Fatality Rate in Bangladesh (1949-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Cholera_Case_Fatality_Rate_in_Bangladesh_(1949-1960).png)
 
 ---
 
@@ -144,11 +141,11 @@ The data shows two outbreaks for this 3 countries :
 
 ***the fatality rate was : 69 %***
 
-![myanmar stacked Bar chart.png](myanmar_stacked_Bar_chart.png)
+![myanmar stacked Bar chart.png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/myanmar_stacked_Bar_chart.png)
 
-![Reported Deaths in Myanmar (1950-1960).png](Reported_Deaths_in_Myanmar_(1950-1960).png)
+![Reported Deaths in Myanmar (1950-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Reported_Deaths_in_Myanmar_(1950-1960).png)
 
-![Cholera Case Fatality Rate in Myanmar (1949-1960).png](Cholera_Case_Fatality_Rate_in_Myanmar_(1949-1960).png)
+![Cholera Case Fatality Rate in Myanmar (1949-1960).png](https://github.com/kali156/Hack-bio-Stage3/tree/main/Images/Cholera_Case_Fatality_Rate_in_Myanmar_(1949-1960).png)
 
 <aside>
 💡
