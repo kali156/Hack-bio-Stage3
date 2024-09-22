@@ -4,16 +4,17 @@ Author: " Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled 
 
 # 💡 Important links :
 1. Phase one : [Googel docs](https://docs.google.com/document/d/1agEoZ12eGO7c851Y0uo-aqYeJ_6xCJw4m7b51dqTlvY/edit)
-2. Phase 2 
-3.  we create Notion [Report](https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74).
+ 
+3. For Phase 2: we created Notion [Report](https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74).
 # 📝 References :
-Reported cases data :  [WHO](https://apps.who.int/gho/data/node.main.175?lang=en) 
+1. Reported cases data :  [WHO](https://apps.who.int/gho/data/node.main.175?lang=en) 
 
-Death cases data : [WHO](https://apps.who.int/gho/data/node.main.176?lang=en)
+2. Death cases data : [WHO](https://apps.who.int/gho/data/node.main.176?lang=en)
 
-Fatality rates data : [WHO](https://apps.who.int/gho/data/node.main.177?lang=en)
+3. Fatality rates data : [WHO](https://apps.who.int/gho/data/node.main.177?lang=en)
 
- [source](https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway 
+ 
+ 4. [source](https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway 
    
 ## usage (100% using R script)
 
