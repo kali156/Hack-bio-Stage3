@@ -1,9 +1,7 @@
 # Analysis of Cholera Outbreaks Data since 1949
 
  **Author's : Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled (@yomna98)**
-> 
 
-Overview of Cholera Cases
 💡 **References**
 
 Reported cases data :  [WHO](https://apps.who.int/gho/data/node.main.175?lang=en) 
@@ -15,17 +13,17 @@ Fatality rates data : [WHO](https://apps.who.int/gho/data/node.main.177?lang=en)
  [source](https://www.grida.no/resources/5628) : **GRID-Arendal** communications center  in Norway 
 
 
-💡 **Overview of Cholera Cases**
+# Overview of Cholera Cases
 
 - Most significant number of cases reported before 1980, with a decline observed after the 1980s period
 - Spreading of cholera from 1950 to 2004 shown in global map visualization
 
-**Outbreaks between 1950 and 1960**
+ ***Outbreaks between 1950 and 1960***
 
 - Significant increase in reported cases, with severe spread in India, Bangladesh, and Myanmar
 - Two major outbreaks were observed: first between 1951 and 1953, and second between 1956 and 1958.
 
-**Country-Specific Outbreaks**
+ **Country-Specific Outbreaks**
 
 - India: Peak in 1953 with 124,227 reported cases, significant numbers also in 1957-1958
 - Bangladesh: Multiple peaks, with the highest in 1953 (16,904 cases) and significant numbers in 1956, 1958, and 1959.
