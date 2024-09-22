@@ -3,8 +3,8 @@
 Author: " Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50) , Yomna Khaled (@yomna98) "
 
 # 💡 Important links :
-1. Phase one : [Googel docs](https://docs.google.com/document/d/1agEoZ12eGO7c851Y0uo-aqYeJ_6xCJw4m7b51dqTlvY/edit)
----
+## Phase 1
+Here is [Googel docs](https://docs.google.com/document/d/1agEoZ12eGO7c851Y0uo-aqYeJ_6xCJw4m7b51dqTlvY/edit)
 ## Phase 2
 1. The [Analysis of Cholera Outbreaks Data since 1949](https://github.com/kali156/Hack-bio-Stage3/blob/main/Analysis%20of%20Cholera%20Outbreaks%20Data%20since%201949%20.md) markdown report.
 2. we created Notion [Report](https://vigorous-dahlia-f5d.notion.site/Analysis-of-Cholera-Outbreaks-Data-since-1949-107ee65d6378804fad16c65e71872e3b?pvs=74) for better visualiztion.
