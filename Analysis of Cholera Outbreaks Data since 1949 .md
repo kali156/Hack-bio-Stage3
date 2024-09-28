@@ -32,9 +32,10 @@ Fatality rates data : [WHO](https://apps.who.int/gho/data/node.main.177?lang=en)
 
 # When is the most reported cases has been Reported ?
 
-The most significant number of cases had been reported before 1980, but after that data shows decline in the number of Reported cases compared to before 80s period 
+The most significant number of cases had been reported after 1990, but before that data shows decline in the number of Reported cases compared to after 90s period 
 
-![image.png](https://github.com/kali156/Hack-bio-Stage3/blob/main/Images/image.png)
+![graph3](https://github.com/user-attachments/assets/b127ecdc-1018-40d0-a45d-f732e9f4d996)
+
 
 ## What is the country that Has a Breakout ?
 
@@ -44,7 +45,8 @@ The most significant number of cases had been reported before 1980, but after th
 
 ## Top 10 countries of Reported cases
 
-![top 10 countries.png](https://github.com/kali156/Hack-bio-Stage3/blob/main/Images/top_10_countries.png)
+![top 10 countries](https://github.com/user-attachments/assets/766976ae-fe66-44fb-a9c1-8202a87ab938)
+
 
 ## Top 10 countries in the numbers of Death cases
 
